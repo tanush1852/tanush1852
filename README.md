@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Tanush Salian! 👋
 
-<!--
-**tanush1852/tanush1852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year Computer Engineering student from Mumbai with a passion for creating unique and innovative websites. Always learning and improving my skills! 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Next.js
+- Databases: MongoDB, Firebase
+
+### Programming Languages
+- Java (Proficient) ☕
+- C and C++ (Intermediate) 💻
+
+### Web Development Libraries
+- Clerk (Authentication)
+- Cloudinary (Media Management)
+- shadcn/ui (UI Components)
+
+## 🚀 Projects
+
+### Amuze
+A personalized music recommendation website to find the best music based on your preferences.
+- Technologies: MERN Stack
+
+### Aora
+A video sharing app platform.
+- Technologies: React Native
+
+## 🔨 Currently Working On
+
+### Raise-u-me
+A Resume Enhancer application.
+- Technologies: Next.js, Clerk, Cloudinary, and Gemini AI
+- Purpose: To help users create and optimize their resumes for better results
+
+## 📫 How to reach me
+LinkedIn: https://www.linkedin.com/in/tanush-salian-003276222/
+
+## 👨‍💻 Open to collaborate on exciting web development projects!
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to discuss tech, collaborate on a project, or just chat about web development!
+
+---
+⭐️ From [TanushSalian] (https://github.com/TanushSalian)
