@@ -68,11 +68,4 @@
 <hr>
 <p align="center"><em>Feel free to explore my repositories and don't hesitate to reach out for collaboration!</em></p>
 
-<!-- Add GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanush1852&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<!-- Add GitHub streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanush1852&theme=radical" alt="GitHub Streak"/>
-</p>
+
