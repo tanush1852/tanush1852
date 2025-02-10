@@ -15,7 +15,7 @@
   <li>Developed a comprehensive workflow automation solution integrating multiple Google Workspace applications</li>
   <li>Implemented automated Google Meet summarization and Gmail attachment handling</li>
   <li>Created automated task management system syncing with Notion</li>
-  <li>Built LinkedIn integration for discovering freelancers based on job roles and locations</li>
+  <li>Built LinkedIn scraper for discovering freelancers/professionals based on job roles and locations</li>
   <li><strong>Technologies:</strong> Google Workspace API, Notion API, Gemini ,React , Node.js </li>
 </ul>
 <h3>🛒 FreshMart - Smart Grocery E-Commerce Platform</h3>
@@ -64,6 +64,12 @@
 </p>
 <hr>
 <p align="center"><em>Feel free to explore my repositories and don't hesitate to reach out for collaboration!</em></p>
+
+<p align="left">
+  <a href="https://leetcode.com/tanush1852" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 <!-- Add GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanush1852&show_icons=true&theme=radical" alt="GitHub Stats"/>
