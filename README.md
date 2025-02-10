@@ -16,7 +16,7 @@
   <li>Implemented automated Google Meet summarization and Gmail attachment handling</li>
   <li>Created automated task management system syncing with Notion</li>
   <li>Built LinkedIn integration for discovering freelancers based on job roles and locations</li>
-  <li><strong>Technologies:</strong> Google Workspace API, Notion API, LinkedIn API, Node.js</li>
+  <li><strong>Technologies:</strong> Google Workspace API, Notion API, Gemini ,React , Node.js </li>
 </ul>
 <h3>🛒 FreshMart - Smart Grocery E-Commerce Platform</h3>
 <ul>
