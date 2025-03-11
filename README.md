@@ -4,35 +4,54 @@
 </p>
 <h2 align="left">🛠️ Tech Stack</h2>
 <p align="left">
-  <strong>Languages:</strong> Java (Advanced), C (Basic), C++ (Basic)<br>
-  <strong>Web Technologies:</strong> React, Next.js, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB<br>
-  <strong>Design Tools:</strong> Figma, Canva<br>
-  <strong>AI/ML:</strong> Gemini AI, LLaMA 3
+  <strong>Languages:</strong> Java (Advanced), C (Intermediate), C++ (Intermediate)<br>
+  <strong>Web Technologies:</strong> React, Next.js, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Firebase<br>
+  <strong>AI/ML:</strong> Machine Learning Integration, Generative AI, Natural Language Processing (NLP), Gemini AI, LLaMA 3<br>
+  <strong>Backend & API:</strong> Flask, OAuth, REST APIs, Firebase Cloud Functions, API Design<br>
+  <strong>Tools & Platforms:</strong> Git, GitHub, Docker, Figma, Canva, VS Code, Postman
+</p>
+<h2 align="left">🎓 Education</h2>
+<p align="left">
+  <strong>B.Tech, Computer Engineering</strong><br>
+  Sardar Patel Institute of Technology, Mumbai (2022 – Present)<br>
+  CGPA: 8.21/10.00 · MHT-CET (2022): 99.68 percentile
 </p>
 <h2 align="left">🚀 Featured Projects</h2>
+<h3>📊 InventoSync - AI-Powered Inventory Management System</h3>
+<ul>
+  <li>Engineered a Prophet-based machine learning forecasting system and analytics dashboard</li>
+  <li>Integrated Google Sheets API for inventory tracking and automated sales reports to Google Docs</li>
+  <li>Developed multi-channel automation with WhatsApp, Email and Telegram APIs for instant notifications</li>
+  <li>Implemented QR-based product tracking and inventory management through Telegram commands</li>
+  <li>Created an interactive marketplace with real-time chat feature and Maps integration for warehouse logistics</li>
+  <li>Built a suggestion engine with seasonal event calendar to optimize inventory planning and reduce waste</li>
+  <li><strong>Technologies:</strong> Google APIs, Prophet ML, WhatsApp/Telegram/Email APIs, Maps integration</li>
+</ul>
 <h3>🤖 PokeFlow - Workflow Automation Platform</h3>
 <ul>
-  <li>Developed a comprehensive workflow automation solution integrating multiple Google Workspace applications</li>
-  <li>Implemented automated Google Meet summarization and Gmail attachment handling</li>
-  <li>Created automated task management system syncing with Notion</li>
-  <li>Built LinkedIn scraper for discovering freelancers/professionals based on job roles and locations</li>
-  <li><strong>Technologies:</strong> Google Workspace API, Notion API, Gemini ,React , Node.js </li>
+  <li>Architected and deployed a React.js/Node.js workflow platform seamlessly integrating Google Suite</li>
+  <li>Implemented ML-driven meeting management with transcript-based summarization</li>
+  <li>Built task scheduling, meeting reminders, and auto-downloading attachments features</li>
+  <li>Developed LinkedIn data scraping module with custom filtering algorithms for talent acquisition</li>
+  <li><strong>Technologies:</strong> Google Workspace API, Notion API, Gemini, React, Node.js</li>
+</ul>
+<h3>📝 Raise-U-Me - AI Resume Enhancement Platform</h3>
+<ul>
+  <li>Built a Next.js-based resume platform with a Flask backend</li>
+  <li>Integrated Clerk authentication and Cloudinary for profile and media management</li>
+  <li>Integrated Google's Gemini API for AI-driven resume enhancement, improving ATS compatibility scores by 70%</li>
+  <li>Developed market insights and leader analysis features using GitHub Jobs API, USA Jobs API</li>
+  <li>Implemented web scraping for job trends and benchmarking</li>
+  <li><strong>Technologies:</strong> Next.js, MongoDB, Flask, BeautifulSoup, Gemini AI, Clerk, Cloudinary</li>
 </ul>
 <h3>🛒 FreshMart - Smart Grocery E-Commerce Platform</h3>
 <ul>
-  <li>MERN stack e-commerce platform with real-time inventory management</li>
-  <li>Integrated PayPal and Cash on Delivery payment systems</li>
-  <li>Implemented Gemini AI-powered delivery scheduling system</li>
-  <li>Features dynamic stock tracking across 100+ products</li>
-  <li><strong>Technologies:</strong> MongoDB, Express.js, React, Node.js, Gemini AI</li>
-</ul>
-<h3>📝 Raise-U-Me - AI-Powered Resume Enhancement Platform</h3>
-<ul>
-  <li>Built with Next.js and MongoDB</li>
-  <li>Automated web scraping using BeautifulSoup for job market analysis</li>
-  <li>Integrated Gemini API for intelligent resume enhancement</li>
-  <li>Improved resume keyword optimization by 40%</li>
-  <li><strong>Technologies:</strong> Next.js, MongoDB, BeautifulSoup, Gemini AI</li>
+  <li>Built full-stack MERN application with Redux state management and Stripe payment integration</li>
+  <li>Implemented real-time inventory tracking across 100+ products</li>
+  <li>Developed address geocoding with AI-driven delivery scheduling algorithms, reducing delivery times by 25%</li>
+  <li>Implemented Docker containerization and load balancing, achieving 99.5% uptime</li>
+  <li>Platform supports 500+ concurrent users</li>
+  <li><strong>Technologies:</strong> MongoDB, Express.js, React, Node.js, Redux, Stripe, Docker, Gemini AI</li>
 </ul>
 <h3>📚 LearnWise - AI Educational Platform</h3>
 <ul>
@@ -42,13 +61,6 @@
   <li>Features text-to-voice conversion for enhanced accessibility</li>
   <li><strong>Technologies:</strong> LLaMA 3, JWT, Multer, MERN Stack</li>
 </ul>
-<h3>🍽️ EcoStock - AI-Powered Inventory Management System</h3>
-<ul>
-  <li>Single-restaurant management system with predictive inventory tracking</li>
-  <li>AI-powered festival-based meal suggestions</li>
-  <li>Real-time stock update dashboard</li>
-  <li><strong>Technologies:</strong> Gemini AI API, MongoDB, MERN Stack</li>
-</ul>
 <h3>🎵 AMUZE - Personalized Music Recommendation Platform</h3>
 <ul>
   <li>Full-stack MERN application for music discovery</li>
@@ -56,6 +68,15 @@
   <li>99% platform reliability</li>
   <li>Serves 100+ active users</li>
   <li><strong>Technologies:</strong> MongoDB, Express.js, React, Node.js</li>
+</ul>
+<h2 align="left">👨‍💼 Leadership and Experience</h2>
+<ul>
+  <li><strong>Lead Scorekeeper, First Tech Challenge, Goa</strong> (Oct 2023 - Jan 2024)<br>
+    Managed real-time scoring system for an international robotics competition with 500+ attendees</li>
+  <li><strong>Vice Cultural Secretary, Student Council, SPIT</strong> (Aug 2023 - Jul 2024)<br>
+    Orchestrated campus-wide cultural events, increasing student participation by 30%</li>
+  <li><strong>NISP Council Subcommittee, SPIT</strong> (Nov 2022 - Aug 2023)<br>
+    Launched "Entreview" initiative and led 5+ innovation events engaging 200+ students</li>
 </ul>
 <h2 align="left">📫 Connect with Me</h2>
 <p align="left">
@@ -67,5 +88,3 @@
 </p>
 <hr>
 <p align="center"><em>Feel free to explore my repositories and don't hesitate to reach out for collaboration!</em></p>
-
-
