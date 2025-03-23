@@ -64,15 +64,7 @@
   <li>Serves 100+ active users</li>
   <li><strong>Technologies:</strong> MongoDB, Express.js, React, Node.js</li>
 </ul>
-<h2 align="left">👨‍💼 Leadership and Experience</h2>
-<ul>
-  <li><strong>Lead Scorekeeper, First Tech Challenge, Goa</strong> (Oct 2023 - Jan 2024)<br>
-    Managed real-time scoring system for an international robotics competition with 500+ attendees</li>
-  <li><strong>Vice Cultural Secretary, Student Council, SPIT</strong> (Aug 2023 - Jul 2024)<br>
-    Orchestrated campus-wide cultural events, increasing student participation by 30%</li>
-  <li><strong>NISP Council Subcommittee, SPIT</strong> (Nov 2022 - Aug 2023)<br>
-    Launched "Entreview" initiative and led 5+ innovation events engaging 200+ students</li>
-</ul>
+
 <h2 align="left">📫 Connect with Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/tanushsalian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
