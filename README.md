@@ -10,12 +10,7 @@
   <strong>Backend & API:</strong> Flask, OAuth, REST APIs, Firebase Cloud Functions, API Design<br>
   <strong>Tools & Platforms:</strong> Git, GitHub, Docker, Figma, Canva, VS Code, Postman
 </p>
-<h2 align="left">🎓 Education</h2>
-<p align="left">
-  <strong>B.Tech, Computer Engineering</strong><br>
-  Sardar Patel Institute of Technology, Mumbai (2022 – Present)<br>
-  CGPA: 8.21/10.00 · MHT-CET (2022): 99.68 percentile
-</p>
+
 <h2 align="left">🚀 Featured Projects</h2>
 <h3>📊 InventoSync - AI-Powered Inventory Management System</h3>
 <ul>
